@@ -32,12 +32,12 @@
 
   /* intentional linting error to see if stylelint is working correctly */
   /* in this case it's the "selector-type-no-unknown" rule */
-  
+  /*   
   koweorkewq {
     hello: 5px;
   }
 
-  /* div::v-this-doesnt-exist {
+  div::v-this-doesnt-exist {
     width: 5px;
   } */
   .greetings h1,
